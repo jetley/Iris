@@ -1,7 +1,16 @@
 {
   "iris.shaders.reloaded": "Shaders recargados!",
+  "iris.shaders.toggled": "¡Shaders cambiados a %s!",
   "iris.keybind.reload": "Recargar Shaders",
+  "iris.keybind.shaderPackSelection": "Pantalla de selección de Shader Packs",
+  "iris.keybind.toggleShaders": "Cambiar Shaders",
+  "iris.keybinds": "Iris",
   "iris.shaders.reloaded.failure": "¡Error al recargar los Shaders! Razón: %s",
+  "iris.shaders.toggled.failure": "¡Error al cambiar los shaders! Razón: %s",
+  "iris.sodium.failure.title": "¡No se ha podido cargar Iris!",
+  "iris.sodium.failure.download": "Descargar Sodium",
+  "iris.sodium.failure.reason.notFound": "Iris necesita Sodium para un buen rendimiento pero no está instalado. Porfavor, descarga Sodium y ponlo en la carpeta de mods.",
+  "iris.sodium.failure.reason.incompatible": "Iris necesita Sodium para un buen rendimiento, pero se encontró una versión incompatible. Porfavor, elimine la versión anterior de Sodium, descargue la correcta, póngala en su carpeta de mods y reinicie el juego.",
 
   "options.iris.apply": "Aplicar",
   "options.iris.refresh": "Recargar",
@@ -17,6 +26,9 @@
   "options.iris.shaderPackSelection.copyErrorAlreadyExists": "¡\"%s\" ya está en tu carpeta de Shader Packs!",
   "options.iris.shaders.disabled": "Shaders: Desactivados",
   "options.iris.shaders.enabled": "Shaders: Activados",
+  "options.iris.shadowDistance": "Distancia máxima para las sombras",
+  "options.iris.shadowDistance.enabled": "Te permite cambiar la distancia máxima de las sombras. El terreno y las entidades que estén más lejos de esta distancia no se dibujarán. Reducir esta distancia incrementa el rendimiento.",
+  "options.iris.shadowDistance.disabled": "El Shader Pack seleccionado ya tiene una distancia de sombras establecida y no puede ser cambiada.",
 
   "pack.iris.select.title": "Seleccionar",
   "pack.iris.list.label": "+ Arrastra Shader Packs aquí para añadirlos"
